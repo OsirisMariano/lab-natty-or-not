@@ -123,6 +123,6 @@ numero_float = numero_inteiro.to_f  # Resultado: 3.0
 
 Compreender como trabalhar com variáveis e operações matemáticas básicas em ruby é fundamental para o desenvolvimento de programas mais complexos. Nos próximos capítulos, exploraremos estruturas de dados, controle de fluxo e muito mais.
 
-<a href = "">
+<a href = "https://github.com/OsirisMariano/lab-natty-or-not/blob/main/ebook/estrutura_de_dados.md">
   <p align = "right">Próximo</p>
 </a>
