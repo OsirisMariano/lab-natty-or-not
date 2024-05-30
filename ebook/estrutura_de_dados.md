@@ -95,8 +95,8 @@ puts fila  # Saída: [2, 3]
 
 ---
 
-Entender como trabalhar com arrays, hashes, conjuntos, pilhas e listas em Ruby é crucial para o desenvolvimento eficaz de programas. Nos próximos capítulos, exploraremos estruturas de controle de fluxo e funções em Ruby.
+Entender como trabalhar com arrays, hashes, conjuntos, pilhas e listas em Ruby é crucial para o desenvolvimento eficaz de programas. Nos próximos capítulos, exploraremos estruturas de repetições em Ruby.
 
-<a href ="">
+<a href ="https://github.com/OsirisMariano/lab-natty-or-not/blob/main/ebook/estrutura_de_repeticao.md">
   <p align = "right">Próximo</p>
 </a>
