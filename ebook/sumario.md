@@ -3,7 +3,7 @@
 
 
 
-[**Introdução à Linguagem Ruby**]()
+[**Introdução à Linguagem Ruby**](https://github.com/OsirisMariano/lab-natty-or-not/blob/main/ebook/introducao_ruby.md)
 
 Neste capítulo, vamos abordar os conceitos básicos da linguagem Ruby, sua história, e por que é uma excelente escolha para iniciantes em programação.
 
@@ -12,7 +12,7 @@ Neste capítulo, vamos abordar os conceitos básicos da linguagem Ruby, sua hist
 - Instalação do Ruby
 - Primeiro programa em Ruby: "Hello, World!"
 
-[**Variáveis e Operações Matemáticas Básicas**]()
+[**Variáveis e Operações Matemáticas Básicas**](https://github.com/OsirisMariano/lab-natty-or-not/blob/main/ebook/variaveis_operacoes_matematicas.md)
 
 Aqui, exploraremos como usar variáveis para armazenar dados e realizar operações matemáticas simples.
 
@@ -22,7 +22,7 @@ Aqui, exploraremos como usar variáveis para armazenar dados e realizar operaç�
 - Operadores de atribuição
 - Conversão de tipos
 
-[**Estruturas de Dados**]()
+[**Estruturas de Dados**](https://github.com/OsirisMariano/lab-natty-or-not/blob/main/ebook/estrutura_de_dados.md)
 
 As estruturas de dados são fundamentais para organizar e manipular informações. Neste capítulo, vamos discutir algumas das estruturas de dados mais comuns em Ruby.
 
@@ -32,7 +32,7 @@ As estruturas de dados são fundamentais para organizar e manipular informaçõe
 - Pilhas (Stack)
 - Filas (Queues)
 
-[**Estruturas de Seleção**]()
+[**Estruturas de Seleção**](https://github.com/OsirisMariano/lab-natty-or-not/blob/main/ebook/estrutura_de_selecao.md)
 
 As estruturas de seleção permitem que seu programa tome decisões com base em condições específicas.
 
@@ -42,7 +42,7 @@ As estruturas de seleção permitem que seu programa tome decisões com base em 
 - Declaração elsif
 - Declaração else
 
-[**Estruturas de Repetição**]()
+[**Estruturas de Repetição**](https://github.com/OsirisMariano/lab-natty-or-not/blob/main/ebook/estrutura_de_repeticao.md)
 
 A repetição é uma parte essencial da programação. Aqui, aprenderemos como usar estruturas de repetição para executar tarefas repetitivas.
 
@@ -51,7 +51,7 @@ A repetição é uma parte essencial da programação. Aqui, aprenderemos como u
 - Declarações break e continue
 - Loops aninhados
 
-[**Funções**]()
+[**Funções**](https://github.com/OsirisMariano/lab-natty-or-not/blob/main/ebook/funcoes.md)
 
 As funções permitem que você modularize seu código, tornando-o mais organizado e reutilizável.
 
@@ -61,7 +61,7 @@ As funções permitem que você modularize seu código, tornando-o mais organiza
 - Escopo de variáveis
 - Funções lambda
 
-[**Programação Orientada a Objetos**]()
+[**Programação Orientada a Objetos**](https://github.com/OsirisMariano/lab-natty-or-not/blob/main/ebook/poo.md)
 
 A programação orientada a objetos é um paradigma de programação poderoso e amplamente utilizado. Neste capítulo, aprenderemos como usar classes e objetos em Ruby.
 
