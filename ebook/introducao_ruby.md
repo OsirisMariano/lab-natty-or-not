@@ -68,6 +68,6 @@ Este simples programa demonstra a sintaxe básica de Ruby. A função `puts` é 
 
 Compreender os conceitos básicos da linguagem Ruby é o primeiro passo para se tornar um programador habilidoso. Nos próximos capítulos, iremos aprofundar esses conceitos e explorar mais sobre o que Ruby tem a oferecer.
 
-<a href = "">
+<a href = "https://github.com/OsirisMariano/lab-natty-or-not/blob/main/ebook/variaveis_operacoes_matematicas.md">
   <p align = "right">Próximo</p>
 </a>
